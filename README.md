@@ -1,1 +1,1 @@
-# javascript-challenges
+# frontendstudiesv2
